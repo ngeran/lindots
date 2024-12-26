@@ -1,0 +1,11 @@
+[Added Associations]
+image/png=thorium-browser.desktop;feh.desktop;
+image/jpeg=feh.desktop;krita_jpeg.desktop;thorium-browser.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop

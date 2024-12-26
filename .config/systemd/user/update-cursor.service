@@ -1,0 +1,7 @@
+[Unit]
+Description=Update Cursor
+- [Service]
+ExecStart=/home/ngeran/Applications/cursor/update-cursor.sh
+Type=oneshot
+- [Install]
+WantedBy=default.target
